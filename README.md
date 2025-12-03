@@ -6,9 +6,9 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 
 | Metric | Count |
 |--------|-------|
-| **Total Theaters** | 490 |
-| United States | 444 |
 | Canada | 46 |
+| USA | 444 |
+| **Total** | 490 |
 
 ## ![schedule](icons/schedule.png) Screening Dates
 
