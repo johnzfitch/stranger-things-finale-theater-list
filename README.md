@@ -1,9 +1,9 @@
 <h1 align="center">Stranger Things 5: The Finale Theater List </h2>
 
-## ![bar-chart](icons/bar-chart.png) US States / Ontario
+## ![bar-chart](icons/bar-chart.png) US States / Ontario, Canada
 
-| CA | TX | FL | NY | IL | ON, CAN | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CA | TX | FL | NY | IL | ON | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
+| --- | --- | --- | --- | ---| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 76 | 46 | 33 | 26 | 25 | 24 | 17 | 16 | 15 | 12 | 12 | 11 | 11 | 11 | 11 |
 
 ## ![list](icons/list.png) Full Movie Theater List
