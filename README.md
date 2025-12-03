@@ -1,21 +1,22 @@
-# ![play](icons/play.png) Stranger Things 5: The Finale - Theater List
+<p align="center"> # ![play](icons/play.png) Stranger Things 5: The Finale 
+### - Complete Theater List</p>
 
-Complete list of theaters showing **Stranger Things 5: The Finale** in the US and Canada.
+<p align="center"> All theaters showing **Stranger Things 5: The Finale** in the US and Canada.</p>
 
-## ![star](icons/star.png) Summary
+<p align="center"> ## ![star](icons/star.png) Summary</p>
 | Metric | Count |
 |--------|-------|
 | Canada | 46 |
 | USA | 444 |
 | **Total** | 490 |
 
-## ![bar-chart](icons/bar-chart.png) US States / Ontario
+<p align="center">## ![bar-chart](icons/bar-chart.png) US States / Ontario</p>
 
 | CA | TX | FL | NY | IL | ON, CA | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 76 | 46 | 33 | 26 | 25 | 24 | 17 | 16 | 15 | 12 | 12 | 11 | 11 | 11 | 11 |
 
-## ![list](icons/list.png) Movie Theaters
+<p align="center">## ![list](icons/list.png) Movie Theaters</p>
 
 <p align="center">Sorted by City Name</p>
 
@@ -513,4 +514,4 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | Ypsilanti | MI | Cinemark Ann Arbor 20 and IMAX | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 
 ---
-*Data scraped from st5finale.com API. Last updated: December 2, 2025.*
+*Data from st5finale.com API. Last updated: December 2, 2025.*
