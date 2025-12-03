@@ -1,23 +1,13 @@
- # ![play](icons/play.png) Stranger Things 5: The Finale 
-### - Full Movie Theaters List
-
-## ![star](icons/star.png) Summary
-| Metric | Count |
-|--------|-------|
-| Canada | 46 |
-| USA | 444 |
-| **Total** | 490 |
+<h1 align="center">Stranger Things 5: The Finale Theater List </h2>
 
 ## ![bar-chart](icons/bar-chart.png) US States / Ontario
 
-| CA | TX | FL | NY | IL | ON, CA | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
+| CA | TX | FL | NY | IL | ON, CAN | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 76 | 46 | 33 | 26 | 25 | 24 | 17 | 16 | 15 | 12 | 12 | 11 | 11 | 11 | 11 |
 
-## ![list](icons/list.png) Movie Theaters
-
+## ![list](icons/list.png) Full Movie Theater List
 Sorted by City Name
-
 | City | State | Theater | Dates | Tickets |
 |------|-------|---------|-------|---------|
 | Acworth | GA | NCG - Acworth Cinemas | Dec 31, Jan 1 | [Tickets](https://www.ncgmovies.com/movie/Acworth/Stranger-Things-5---The-Finale) |
@@ -29,7 +19,7 @@ Sorted by City Name
 | Alhambra | CA | Regal Edwards Alhambra Renaissance | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Aliso Viejo | CA | Regal Edwards Aliso Viejo | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Altamonte Springs | FL | AMC Altamonte Mall 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| Ancaster | ON, CA | Cineplex Cinemas Ancaster | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Ancaster | ON, CAN | Cineplex Cinemas Ancaster | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Ann Arbor | MI | Michigan Theater - Ann Arbor | Dec 31, Jan 1 | [Tickets](http://michtheater.org/) |
 | Arcadia | CA | AMC Santa Anita 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Arlington | VA | Alamo Drafthouse Cinema - Crystal City | Dec 31, Jan 1 | [Tickets](https://drafthouse.com/nyc/show/stranger-things-5-the-finale) |
@@ -68,7 +58,7 @@ Sorted by City Name
 | Boulder | CO | Cinemark Century Boulder | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Boynton Beach | FL | Cinemark Boynton Beach 14 and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Bradenton | FL | AMC Bradenton 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| Brampton | ON, CA | SilverCity Brampton Cinemas | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=425689&a=0000000001&l=7411&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X05AO) |
+| Brampton | ON, CAN | SilverCity Brampton Cinemas | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=425689&a=0000000001&l=7411&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X05AO) |
 | Brandon | FL | AMC The Regency 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Bremerton | WA | SEEfilm Bremerton Cinema | Dec 31, Jan 1 | [Tickets](https://www.seefilm.net/movie/stranger-things-5-the-finale) |
 | Brentwood | CA | AMC Brentwood 14 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -146,7 +136,7 @@ Sorted by City Name
 | Dublin | CA | Regal Hacienda Crossings | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Durham | NC | AMC Southpoint 17 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Eagan | MN | Emagine Eagan | Dec 31, Jan 1 | [Tickets](https://www.emagine-entertainment.com/movies/stranger-things-5-the-finale/) |
-| East Gwillimbury | ON, CA | SilverCity Newmarket Cinemas and XSCAPE Entertainment Centre | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
+| East Gwillimbury | ON, CAN | SilverCity Newmarket Cinemas and XSCAPE Entertainment Centre | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
 | Eatontown | NJ | AMC Monmouth Mall 15 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Eden Prairie | MN | AMC Eden Prairie Mall 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Edina | MN | AMC Southdale 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -161,7 +151,7 @@ Sorted by City Name
 | Elk Grove | CA | Century Laguna 16 | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Elk Grove Village | IL | Classic Cinemas Elk Grove XQ | Dec 31, Jan 1 | [Tickets](https://www.classiccinemas.com/f/stranger-things-5-the-finale/2201) |
 | Emeryville | CA | AMC Bay Street 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| Etobicoke | ON, CA | Cineplex Cinemas Queensway and VIP | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Etobicoke | ON, CAN | Cineplex Cinemas Queensway and VIP | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Eugene | OR | Regal Valley River Center | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Evanston | IL | AMC Evanston 12 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Everett | WA | Regal Everett Stadium 16 & RPX | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
@@ -190,14 +180,14 @@ Sorted by City Name
 | Glendale | CA | AMC The Americana at Brand 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Glendale | AZ | AMC Westgate 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Glendale | NY | Regal Atlas Park | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
-| Gloucester | ON, CA | Scotiabank Theatre Ottawa | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=489577&a=0000000001&l=7428&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X04QU) |
+| Gloucester | ON, CAN | Scotiabank Theatre Ottawa | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=489577&a=0000000001&l=7428&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X04QU) |
 | Goodyear | AZ | Harkins Estrella Falls 16 | Dec 31, Jan 1 | [Tickets](https://www.harkins.com/movies/stranger-things-5-the-finale) |
 | Grand Rapids | MI | Celebration! Cinema Grand Rapids North | Dec 31, Jan 1 | [Tickets](https://www.celebrationcinema.com/Films/detail/Stranger-Things-5---The-Finale) |
 | Grapevine | TX | AMC Grapevine Mills 24 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Greensboro | NC | Regal Greensboro Grande | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Greensburg | PA | AMC CLASSIC Westmoreland 15 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Greenville | SC | Regal Hollywood - Greenville | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
-| Guelph | ON, CA | Galaxy Cinemas Guelph | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Guelph | ON, CAN | Galaxy Cinemas Guelph | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Gulfport | MS | Cinemark Gulfport 16 | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Halifax | NS, CA | Scotiabank Theatre Halifax | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=322252&a=0000000001&l=5130&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0SQ1) |
 | Hampton | VA | AMC Hampton Towne Centre 24 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -231,7 +221,7 @@ Sorted by City Name
 | Jacksonville | FL | AMC Regency 24 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Jacksonville | FL | Cinemark Tinseltown Jacksonville and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Jonesboro | AR | Malco Jonesboro Towne Cinema | Dec 31, Jan 1 | [Tickets](https://www.malco.com/) |
-| Kanata | ON, CA | Landmark Cinemas 24 Kanata | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=189&filmId=126500&externalSessionId=370300&sessionId=11248218&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0SR9) |
+| Kanata | ON, CAN | Landmark Cinemas 24 Kanata | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=189&filmId=126500&externalSessionId=370300&sessionId=11248218&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0SR9) |
 | Katy | TX | Alamo Drafthouse Cinema - LaCenterra | Dec 31, Jan 1 | [Tickets](https://drafthouse.com/nyc/show/stranger-things-5-the-finale) |
 | Katy | TX | AMC Katy Mills 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | KENNESAW | GA | AMC Barrett Commons 24 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -256,8 +246,8 @@ Sorted by City Name
 | Little Rock | AR | Cinemark Colonel Glenn and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Livonia | MI | AMC Livonia 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Lombard | IL | AMC DINE-IN Yorktown 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| London | ON, CA | Landmark Cinemas 8 London | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=192&filmId=126500&externalSessionId=127190&sessionId=11248191&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0SR2) |
-| London | ON, CA | SilverCity London Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
+| London | ON, CAN | Landmark Cinemas 8 London | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=192&filmId=126500&externalSessionId=127190&sessionId=11248191&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0SR2) |
+| London | ON, CAN | SilverCity London Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
 | Long Beach | CA | Cinemark At The Pike Outlets and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Los Angeles | CA | Alamo Drafthouse Cinema - Downtown Los Angeles | Dec 31, Jan 1 | [Tickets](https://drafthouse.com/nyc/show/stranger-things-5-the-finale) |
 | Los Angeles | CA | AMC Century City 15 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -291,7 +281,7 @@ Sorted by City Name
 | Milford | CT | Cinemark Connecticut Post 14 and IMAX | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Minneapolis | MN | The Main Cinema | Dec 31, Jan 1 | [Tickets](https://mspfilm.org/show/stranger-things-5-the-finale/) |
 | Mishawaka | IN | Cinemark South Bend Movies 14 | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
-| Mississauga | ON, CA | Cineplex Cinemas Courtney Park | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=303108&a=0000000001&l=7122&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0MX8) |
+| Mississauga | ON, CAN | Cineplex Cinemas Courtney Park | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=303108&a=0000000001&l=7122&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0MX8) |
 | Missoula | MT | AMC CLASSIC Missoula 12 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Mobile | AL | AMC Mobile 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Moncton | NB, CA | Cineplex Cinemas Trinity Drive | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
@@ -319,7 +309,7 @@ Sorted by City Name
 | New York | NY | Regal Essex Crossing | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | New York | NY | Regal Union Square ScreenX & 4DX | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Newport | KY | AMC Newport On The Levee 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| Niagara Falls | ON, CA | Cineplex Odeon Niagara Square Cinemas | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=248299&a=0000000001&l=7256&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X05HH) |
+| Niagara Falls | ON, CAN | Cineplex Odeon Niagara Square Cinemas | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=248299&a=0000000001&l=7256&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X05HH) |
 | North Canton | OH | Cinemark Tinseltown USA and XD - North Canton | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | North Fort Myers | FL | AMC Merchants Crossing 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | North Las Vegas | NV | Galaxy Cannery | Dec 31, Jan 1 | [Tickets](https://www.galaxytheatres.com/movie/STRANGER-THINGS-5-THE-FINALE) |
@@ -327,7 +317,7 @@ Sorted by City Name
 | Northridge | CA | AMC Northridge 10 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Norwalk | CA | AMC Norwalk 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Oak Brook | IL | AMC Oakbrook Center 12 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| Oakville | ON, CA | Cineplex Cinemas Winston Churchill & VIP | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Oakville | ON, CAN | Cineplex Cinemas Winston Churchill & VIP | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Ocala | FL | Epic Theatres of Ocala with Epic XL | Dec 31, Jan 1 | [Tickets](https://www.epictheatres.com/movies/1000033981-stranger-things-5-the-finale/) |
 | Oceanside | CA | Regal Oceanside | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Ocoee | FL | AMC West Oaks 14 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -347,7 +337,7 @@ Sorted by City Name
 | Orlando | FL | Regal Waterford Lakes | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Orlando | FL | Universal Cinemark at CityWalk and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Oswego | IL | Classic Cinemas Kendall GDX | Dec 31, Jan 1 | [Tickets](https://www.classiccinemas.com/f/stranger-things-5-the-finale/2201) |
-| Ottawa | ON, CA | Mayfair Theatre | Dec 31, Jan 1 | [Tickets](https://mayfairtheatre.ca/movie/stranger-things-5-the-finale/) |
+| Ottawa | ON, CAN | Mayfair Theatre | Dec 31, Jan 1 | [Tickets](https://mayfairtheatre.ca/movie/stranger-things-5-the-finale/) |
 | Owings Mills | MD | AMC Owings Mills 17 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Oxnard | CA | Cinemark Century Riverpark and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Palm Beach Gardens | FL | CMX Downtown At The Gardens | Dec 31, Jan 1 | [Tickets](https://www.cmxcinemas.com/coming-soon/757) |
@@ -357,7 +347,7 @@ Sorted by City Name
 | Pearl | MS | Cinemark Pearl and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Pensacola | FL | AMC Bayou 15 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Peoria | IL | AMC CLASSIC Grand Prairie 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| Peterborough | ON, CA | Galaxy Cinemas Peterborough | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Peterborough | ON, CAN | Galaxy Cinemas Peterborough | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Pflugerville | TX | Cinemark Pflugerville 20 and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Phoenix | AZ | AMC Ahwatukee 24 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Phoenix | AZ | AMC Deer Valley 17 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -387,7 +377,7 @@ Sorted by City Name
 | Richmond | VA | BTM Movieland at Boulevard Sq, Richmond, VA | Dec 31, Jan 1 | [Tickets](https://www.bbtheatres.com/showtimes/1000033981-stranger-things-5-the-finale/) |
 | Richmond | VA | Regal Short Pump | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Richmond | TX | Star Cinema Grill - Richmond/Katy | Dec 31, Jan 1 | [Tickets](https://www.starcinemagrill.net/movie/Richmond/STRANGER-THINGS-5-THE-FINALE) |
-| Richmond Hill | ON, CA | SilverCity Richmond Hill Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
+| Richmond Hill | ON, CAN | SilverCity Richmond Hill Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
 | Riverbank | CA | Galaxy Riverbank Luxury+ | Dec 31, Jan 1 | [Tickets](https://www.galaxytheatres.com/movie/STRANGER-THINGS-5-THE-FINALE) |
 | Riverside | CA | AMC Tyler Galleria 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Robinson Township | PA | Cinemark Robinson Township and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
@@ -415,7 +405,7 @@ Sorted by City Name
 | Santa Clara | CA | AMC Mercado 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Santa Clarita | CA | Regal Edwards Valencia & IMAX | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Sarasota | FL | Regal Hollywood - Sarasota | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
-| Scarborough | ON, CA | Cineplex Cinemas Scarborough | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Scarborough | ON, CAN | Cineplex Cinemas Scarborough | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Schaumburg | IL | AMC Streets of Woodfield 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Schererville | IN | AMC Schererville 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Seattle | WA | AMC Pacific Place 11 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -437,7 +427,7 @@ Sorted by City Name
 | St. Louis | MO | Alamo Drafthouse Cinema - City Foundry | Dec 31, Jan 1 | [Tickets](https://drafthouse.com/nyc/show/stranger-things-5-the-finale) |
 | Stafford | TX | AMC Fountains 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Sterling Heights | MI | MJR Marketplace Digital Cinema 20 | Dec 31, Jan 1 | [Tickets](https://www.mjrtheatres.com/movies/1000033981-stranger-things-5-the-finale/) |
-| Stoney Creek | ON, CA | Cineplex Cinemas Hamilton Mountain | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=195470&a=0000000001&l=7290&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X09IJ) |
+| Stoney Creek | ON, CAN | Cineplex Cinemas Hamilton Mountain | Dec 31, Jan 1 | [Tickets](https://apis.cineplex.com/prod/cpx/theatrical/deeplink?s=195470&a=0000000001&l=7290&m=stranger-things-5-the-finale&ss=False&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X09IJ) |
 | Stony Brook | NY | AMC Stony Brook 17 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Suffolk | VA | Regal Harbour View Grande | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Sugar Land | TX | AMC First Colony 24 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -449,9 +439,9 @@ Sorted by City Name
 | The Woodlands | TX | Cinemark The Woodlands and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Thousand Oaks | CA | AMC DINE-IN Thousand Oaks 14 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Toledo | OH | Cinemark Franklin Park 16 and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
-| Toronto | ON, CA | Cineplex Cinemas Yonge-Dundas and VIP | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
-| Toronto | ON, CA | Cineplex Cinemas Yorkdale | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
-| Toronto | ON, CA | Cineplex Odeon Eglinton Town Centre Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Toronto | ON, CAN | Cineplex Cinemas Yonge-Dundas and VIP | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Toronto | ON, CAN | Cineplex Cinemas Yorkdale | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Toronto | ON, CAN | Cineplex Odeon Eglinton Town Centre Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Toronto | , CA | TIFF Bell Lightbox | Dec 31, Jan 1 | [Tickets](https://www.tiff.net/events/stranger-things-5-the-finale) |
 | Torrance | CA | AMC Del Amo 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Torrance | CA | AMC Rolling Hills 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -469,7 +459,7 @@ Sorted by City Name
 | Vancouver | WA | AMC Vancouver Mall 23 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Vancouver | BC, CA | Scotiabank Theatre Vancouver | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
 | Vancouver | BC, CA | The Park Theatre | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/) |
-| Vaughan | ON, CA | Cineplex Cinemas Vaughan | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Vaughan | ON, CAN | Cineplex Cinemas Vaughan | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Victoria | BC, CA | Cineplex Odeon Victoria Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Victorville | CA | Cinemark Victorville 16 and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 | Virginia Beach | VA | AMC Lynnhaven 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -480,7 +470,7 @@ Sorted by City Name
 | Washington | DC | Alamo Drafthouse Cinema - DC Metro Area | Dec 31, Jan 1 | [Tickets](https://drafthouse.com/nyc/show/stranger-things-5-the-finale) |
 | Washington | DC | AMC Georgetown 14 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Washington |  | Regal Gallery Place | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
-| Waterloo | ON, CA | Galaxy Cinemas Waterloo | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Waterloo | ON, CAN | Galaxy Cinemas Waterloo | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Wauwatosa | WI | AMC Mayfair Mall 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Waxahachie | TX | Hooky Waxahachie | Dec 31, Jan 1 | [Tickets](https://hookyentertainment.com/waxahachie/movie/stranger-things-5-the-finale) |
 | Wayne | NJ | AMC Wayne 14 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
@@ -498,12 +488,12 @@ Sorted by City Name
 | Westbury | NY | Regal Westbury | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Westlake | OH | Regal Crocker Park | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Westminster | CO | AMC Westminster Promenade 24 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
-| Whitby | ON, CA | Landmark Cinemas 24 Whitby | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=201&filmId=126500&externalSessionId=392026&sessionId=11248465&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0SR8) |
+| Whitby | ON, CAN | Landmark Cinemas 24 Whitby | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=201&filmId=126500&externalSessionId=392026&sessionId=11248465&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=X0SR8) |
 | White Plains | NY | Apple Cinemas White Plains City Center IMAX | Dec 31, Jan 1 | [Tickets](https://www.applecinemas.com/Stranger-Things-5--The-Finale/614a94aa845408a798a1d567/692ed236c43fc89febc8ba91) |
 | Wichita | KS | AMC Northrock 14 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Wichita | KS | Regal Warren West | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | Wilmington | NC | Regal Mayfaire | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
-| Windsor | ON, CA | Cineplex Odeon Devonshire Mall Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
+| Windsor | ON, CAN | Cineplex Odeon Devonshire Mall Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Winnipeg | MB, CA | Landmark Cinemas 8 Grant Park | Dec 31, Jan 1 | [Tickets](https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/) |
 | Winnipeg | MB, CA | Scotiabank Theatre Winnipeg | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
 | Woodbridge | VA | Alamo Drafthouse Cinema - Woodbridge | Dec 31, Jan 1 | [Tickets](https://drafthouse.com/nyc/show/stranger-things-5-the-finale) |
@@ -512,4 +502,13 @@ Sorted by City Name
 | Ypsilanti | MI | Cinemark Ann Arbor 20 and IMAX | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 
 ---
+
+### ![star](icons/star.png) Total Theaters
+ 
+| Metric | Count |
+|--------|-------|
+| Canada | 46 |
+| USA | 444 |
+| **Total** | 490 |
+
 *Data from st5finale.com API. Last updated: December 2, 2025.*
