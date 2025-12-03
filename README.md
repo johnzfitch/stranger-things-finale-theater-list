@@ -9,13 +9,15 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | USA | 444 |
 | **Total** | 490 |
 
-## ![bar-chart](icons/bar-chart.png) States - Sorted Alphabetically by City Name
+## ![bar-chart](icons/bar-chart.png) US States / Ontario
 
 | CA | TX | FL | NY | IL | ON, CA | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 76 | 46 | 33 | 26 | 25 | 24 | 17 | 16 | 15 | 12 | 12 | 11 | 11 | 11 | 11 |
 
-## ![list](icons/list.png) Complete Theater List
+## ![list](icons/list.png) Movie Theaters
+
+<p align="center">Sorted by City Name</p>
 
 | City | State | Theater | Dates | Tickets |
 |------|-------|---------|-------|---------|
