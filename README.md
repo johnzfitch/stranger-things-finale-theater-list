@@ -1,8 +1,8 @@
-# ![movie](icons/movie.png) Stranger Things 5: The Finale - Theater List
+# ![play](icons/play.png) Stranger Things 5: The Finale - Theater List
 
 Complete list of theaters showing **Stranger Things 5: The Finale** in the US and Canada.
 
-## ![list](icons/list.png) Summary
+## ![star](icons/star.png) Summary
 
 | Metric | Count |
 |--------|-------|
@@ -10,11 +10,11 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | United States | 444 |
 | Canada | 46 |
 
-## ![calendar](icons/calendar.png) Screening Dates
+## ![schedule](icons/schedule.png) Screening Dates
 
 **December 31, 2025 & January 1, 2026**
 
-## ![map](icons/map.png) Top States/Provinces
+## ![globe](icons/globe.png) Top States/Provinces
 
 | Region | Theaters |
 |--------|----------|
@@ -170,7 +170,7 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | Edina | MN | AMC Southdale 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Edinburg | TX | AMC Edinburg 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Edmonton | AB, CA | Scotiabank Theatre Edmonton | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/en/movie/stranger-things-5-the-finale) |
-| Edmonton (Meadows) | CA | Landmark Cinemas 8 Tamarack | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=7801&filmId=126500&externalSessionId=66281&sessionId=11248471&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=G00LC) |
+| Edmonton (Meadows) | , CA | Landmark Cinemas 8 Tamarack | Dec 31, Jan 1 | [Tickets](https://www.landmarkcinemas.com/booking?cinemaId=7801&filmId=126500&externalSessionId=66281&sessionId=11248471&utm_source=powster&utm_campaign=powster&utm_medium=referral&utm_content=G00LC) |
 | El Cajon | CA | Regal Parkway Plaza & IMAX | Dec 31, Jan 1 | [Tickets](https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317) |
 | El Paso | TX | AMC El Paso 16 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | El Paso | TX | Cinemark Cielo Vista Mall 14 and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
@@ -470,7 +470,7 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | Toronto | ON, CA | Cineplex Cinemas Yonge-Dundas and VIP | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Toronto | ON, CA | Cineplex Cinemas Yorkdale | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
 | Toronto | ON, CA | Cineplex Odeon Eglinton Town Centre Cinemas | Dec 31, Jan 1 | [Tickets](https://www.cineplex.com/movie/stranger-things-5-the-finale) |
-| Toronto | CA | TIFF Bell Lightbox | Dec 31, Jan 1 | [Tickets](https://www.tiff.net/events/stranger-things-5-the-finale) |
+| Toronto | , CA | TIFF Bell Lightbox | Dec 31, Jan 1 | [Tickets](https://www.tiff.net/events/stranger-things-5-the-finale) |
 | Torrance | CA | AMC Del Amo 18 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Torrance | CA | AMC Rolling Hills 20 | Dec 31, Jan 1 | [Tickets](https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075) |
 | Towson | MD | Cinemark Towson and XD | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
@@ -530,5 +530,4 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | Ypsilanti | MI | Cinemark Ann Arbor 20 and IMAX | Dec 31, Jan 1 | [Tickets](https://www.cinemark.com/movies/stranger-things-5-the-finale) |
 
 ---
-
 *Data scraped from st5finale.com API. Last updated: December 2, 2025.*
