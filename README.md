@@ -1,7 +1,10 @@
-<p align="center"> # ![play](icons/play.png) Stranger Things 5: The Finale 
+<p align="center"> 
+  # ![play](icons/play.png) Stranger Things 5: The Finale 
+</p>
 ### - Complete Theater List</p>
-
-<p align="center"> All theaters showing **Stranger Things 5: The Finale** in the US and Canada.</p>
+<p align="center"> 
+  All theaters showing **Stranger Things 5: The Finale** in the US and Canada.
+</p>
 
 <p align="center"> ## ![star](icons/star.png) Summary</p>
 | Metric | Count |
