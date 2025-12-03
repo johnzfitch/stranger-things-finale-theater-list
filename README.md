@@ -3,24 +3,19 @@
 Complete list of theaters showing **Stranger Things 5: The Finale** in the US and Canada.
 
 ## ![star](icons/star.png) Summary
-
 | Metric | Count |
 |--------|-------|
 | Canada | 46 |
 | USA | 444 |
 | **Total** | 490 |
 
-## ![schedule](icons/schedule.png) Screening Dates
-
-**December 31, 2025 & January 1, 2026**
-
-## ![globe](icons/globe.png) Top States/Provinces
+## ![bar-chart](icons/bar-chart.png) States - Sorted Alphabetically by City Name
 
 | CA | TX | FL | NY | IL | ON, CA | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 76 | 46 | 33 | 26 | 25 | 24 | 17 | 16 | 15 | 12 | 12 | 11 | 11 | 11 | 11 |
 
-## ![globe](icons/globe.png) Complete Theater List
+## ![list](icons/list.png) Complete Theater List
 
 | City | State | Theater | Dates | Tickets |
 |------|-------|---------|-------|---------|
