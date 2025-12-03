@@ -1,27 +1,22 @@
-<p align="center"> 
-  # ![play](icons/play.png) Stranger Things 5: The Finale 
-</p>
-### - Complete Theater List</p>
-<p align="center"> 
-  All theaters showing **Stranger Things 5: The Finale** in the US and Canada.
-</p>
+ # ![play](icons/play.png) Stranger Things 5: The Finale 
+### - Full Movie Theaters List
 
-<p align="center"> ## ![star](icons/star.png) Summary</p>
+## ![star](icons/star.png) Summary
 | Metric | Count |
 |--------|-------|
 | Canada | 46 |
 | USA | 444 |
 | **Total** | 490 |
 
-<p align="center">## ![bar-chart](icons/bar-chart.png) US States / Ontario</p>
+## ![bar-chart](icons/bar-chart.png) US States / Ontario
 
 | CA | TX | FL | NY | IL | ON, CA | NC | GA | VA | OH | NJ | MI | CO | MD | WA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 76 | 46 | 33 | 26 | 25 | 24 | 17 | 16 | 15 | 12 | 12 | 11 | 11 | 11 | 11 |
 
-<p align="center">## ![list](icons/list.png) Movie Theaters</p>
+## ![list](icons/list.png) Movie Theaters
 
-<p align="center">Sorted by City Name</p>
+Sorted by City Name
 
 | City | State | Theater | Dates | Tickets |
 |------|-------|---------|-------|---------|
