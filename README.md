@@ -1,8 +1,8 @@
-# Stranger Things 5: The Finale - Theater List
+# ![movie](icons/movie.png) Stranger Things 5: The Finale - Theater List
 
 Complete list of theaters showing **Stranger Things 5: The Finale** in the US and Canada.
 
-## Summary
+## ![list](icons/list.png) Summary
 
 | Metric | Count |
 |--------|-------|
@@ -10,9 +10,11 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | United States | 444 |
 | Canada | 46 |
 
-**Screening Dates:** December 31, 2025 & January 1, 2026
+## ![calendar](icons/calendar.png) Screening Dates
 
-## Top States/Provinces
+**December 31, 2025 & January 1, 2026**
+
+## ![map](icons/map.png) Top States/Provinces
 
 | Region | Theaters |
 |--------|----------|
@@ -32,7 +34,7 @@ Complete list of theaters showing **Stranger Things 5: The Finale** in the US an
 | MD | 11 |
 | WA | 11 |
 
-## Complete Theater List
+## ![ticket](icons/ticket.png) Complete Theater List
 
 | City | State | Theater | Dates | Tickets |
 |------|-------|---------|-------|---------|
