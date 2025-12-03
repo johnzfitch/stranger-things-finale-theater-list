@@ -1,0 +1,479 @@
+Name	City	State	Country	URL
+Landmark Cinemas 8 Tamarack	Edmonton (Meadows)	None	CA	https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/
+TIFF Bell Lightbox	Toronto	None	CA	https://www.tiff.net/events/stranger-things-5-the-finale
+Landmark Cinemas 10 Shawnessy Calgary	Calgary	AB	CA	https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/
+Landmark Cinemas 16 Country Hills	Calgary	AB	CA	https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/
+Scotiabank Theatre Chinook	Calgary	AB	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Scotiabank Theatre Edmonton	Edmonton	AB	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Galaxy Cinemas Red Deer	Red Deer	AB	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Cinemas Coquitlam and VIP	Coquitlam	BC	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Cinemas Langley	Langley	BC	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Landmark Cinemas 12 Guilford	Surrey	BC	CA	https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/
+Scotiabank Theatre Vancouver	Vancouver	BC	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+The Park Theatre	Vancouver	BC	CA	
+Cineplex Odeon Victoria Cinemas	Victoria	BC	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Landmark Cinemas 8 Grant Park	Winnipeg	MB	CA	https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/
+Scotiabank Theatre Winnipeg	Winnipeg	MB	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Cineplex Cinemas Trinity Drive	Moncton	NB	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Scotiabank Theatre Halifax	Halifax	NS	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Cineplex Cinemas Ancaster	Ancaster	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+SilverCity Brampton Cinemas	Brampton	ON	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+SilverCity Newmarket Cinemas and XSCAPE Entertainment Centre	East Gwillimbury	ON	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Cineplex Cinemas Queensway and VIP	Etobicoke	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Scotiabank Theatre Ottawa	Gloucester	ON	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Galaxy Cinemas Guelph	Guelph	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Landmark Cinemas 8 London	London	ON	CA	https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/
+SilverCity London Cinemas	London	ON	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Cineplex Cinemas Courtney Park	Mississauga	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Odeon Niagara Square Cinemas	Niagara Falls	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Cinemas Winston Churchill & VIP	Oakville	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Mayfair Theatre	Ottawa	ON	CA	https://mayfairtheatre.ca/movie/stranger-things-5-the-finale/
+Galaxy Cinemas Peterborough	Peterborough	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+SilverCity Richmond Hill Cinemas	Richmond Hill	ON	CA	https://www.cineplex.com/en/movie/stranger-things-5-the-finale
+Cineplex Cinemas Scarborough	Scarborough	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Cinemas Hamilton Mountain	Stoney Creek	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Cinemas Yonge-Dundas and VIP	Toronto	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Cinemas Yorkdale	Toronto	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Odeon Eglinton Town Centre Cinemas	Toronto	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cineplex Cinemas Vaughan	Vaughan	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Galaxy Cinemas Waterloo	Waterloo	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Landmark Cinemas 24 Whitby	Whitby	ON	CA	https://www.landmarktheatres.com/movies/1000033981-stranger-things-5-the-finale/
+Cineplex Odeon Devonshire Mall Cinemas	Windsor	ON	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cinéma Cineplex Odeon Beauport	Beauport	QC	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cinéma Cineplex Odeon Brossard et VIP	Brossard	QC	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cinéma Cineplex Laval	Laval	QC	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+Cinéma Cineplex Forum et VIP	Montréal	QC	CA	https://www.cineplex.com/movie/stranger-things-5-the-finale
+La Maison du Cinéma	Sherbrooke	QC	CA	
+Regal Gallery Place	Washington	None	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Summit 16	Birmingham	AL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Patton Creek 15	Hoover	AL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Valley Bend 18	Huntsville	AL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Mobile 16	Mobile	AL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC CLASSIC Chantilly 13	Montgomery	AL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC CLASSIC Wharf 15	Orange Beach	AL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Malco Razorback Cinema	Fayetteville	AR	US	
+Malco Jonesboro Towne Cinema	Jonesboro	AR	US	
+Cinemark Colonel Glenn and XD	Little Rock	AR	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Harkins Chandler Fashion 20	Chandler	AZ	US	https://www.harkins.com/movies/stranger-things-5-the-finale
+AMC Arrowhead 14	Glendale	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Westgate 20	Glendale	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Harkins Estrella Falls 16	Goodyear	AZ	US	https://www.harkins.com/movies/stranger-things-5-the-finale
+AMC Mesa Grand 14	Mesa	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Ahwatukee 24	Phoenix	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC DINE-IN Desert Ridge 18	Phoenix	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC DINE-IN Esplanade 14	Phoenix	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Deer Valley 17	Phoenix	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Foothills 15	Tucson	AZ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Century Park Place 20 and XD	Tucson	AZ	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Edwards Alhambra Renaissance	Alhambra	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Edwards Aliso Viejo	Aliso Viejo	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Santa Anita 16	Arcadia	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Brentwood 14	Brentwood	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Krikorian Buena Park Metroplex 18	Buena Park	CA	US	
+AMC Burbank 16	Burbank	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Carlsbad	Carlsbad	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Mary Pickford Theater is D'Place	Cathedral City	CA	US	https://www.dplaceentertainment.com/movies/1000033981-stranger-things-5-the-finale/
+AMC Puente Hills 20	City Of Industry	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Laemmle's Claremont 5	Claremont	CA	US	
+AMC Covina 17	Covina	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Century 20 Daly City and XD	Daly City	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Hacienda Crossings	Dublin	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Parkway Plaza & IMAX	El Cajon	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Century Laguna 16	Elk Grove	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Bay Street 16	Emeryville	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Century at Pacific Commons and XD	Fremont	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Fresno River Park	Fresno	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC DINE-IN Fullerton 20	Fullerton	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC The Americana at Brand 18	Glendale	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Egyptian Theatre	Hollywood	CA	US	https://www.egyptiantheatre.com/film/stranger-things-5-the-finale-egyptian
+Cinemark Century Huntington Beach and XD	Huntington Beach	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Irvine Spectrum	Irvine	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Lancaster IMAX and ScreenX	Lancaster	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark At The Pike Outlets and XD	Long Beach	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Century City 15	Los Angeles	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC The Grove 14	Los Angeles	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - Downtown Los Angeles	Los Angeles	CA	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Regal LA Live	Los Angeles	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Manteca 16	Manteca	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Marina Marketplace 6	Marina Del Rey	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+LOOK Dine-in Cinema - Monrovia	Monrovia	CA	US	https://www.lookcinemas.com/movie/strangers-things-5-the-finale
+Cinemark Century Mountain View 16	Mountain View	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Plaza Bonita 14	National City	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Northridge 10	Northridge	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Norwalk 20	Norwalk	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Oceanside	Oceanside	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC DINE-IN Ontario Mills 30	Ontario	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Edwards Ontario Palace Stadium	Ontario	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Orange 30	Orange	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Century Orange and XD	Orange	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Century Riverpark and XD	Oxnard	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Paseo	Pasadena	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Century Downtown Pleasant Hill 16 and XD	Pleasant Hill	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Century at the River and XD	Rancho Mirage	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Redding 14 and XD	Redding	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Harkins Mountain Grove 16	Redlands	CA	US	https://www.harkins.com/movies/stranger-things-5-the-finale
+LOOK Dine-in Cinema - Redlands	Redlands	CA	US	https://www.lookcinemas.com/movie/strangers-things-5-the-finale
+AMC South Bay Galleria 16	Redondo Beach	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Galaxy Riverbank Luxury+	Riverbank	CA	US	https://www.galaxytheatres.com/movie/STRANGER-THINGS-5-THE-FINALE
+AMC Tyler Galleria 16	Riverside	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Century Arden 14 and XD	Sacramento	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Century at Tanforan and XD	San Bruno	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Mission Valley 20	San Diego	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Palm Promenade 24	San Diego	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC UTC 14	San Diego	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinépolis Del Mar	San Diego	CA	US	https://www.cinepolisusa.com/coconut/movie/stranger-things-promotional-fan-screening
+Regal Edwards Mira Mesa	San Diego	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+UltraStar Mission Valley at Hazard Center	San Diego	CA	US	
+AMC Metreon 16	San Francisco	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - New Mission	San Francisco	CA	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Regal Stonestown Galleria	San Francisco	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Eastridge 15	San Jose	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Century Oakridge 20 XD and ScreenX	San Jose	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Mercado 20	Santa Clara	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Edwards Valencia & IMAX	Santa Clarita	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Sherman Oaks Galleria	Sherman Oaks	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Simi Valley Civic Center	Simi Valley	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Edwards South Gate & IMAX	South Gate	CA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC DINE-IN Thousand Oaks 14	Thousand Oaks	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Del Amo 18	Torrance	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Rolling Hills 20	Torrance	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Tustin 14 @ The District	Tustin	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Century Union Landing 25 and XD	Union City	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Universal Cinema AMC at CityWalk Hollywood	Universal City	CA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Victorville 16 and XD	Victorville	CA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Arapahoe Crossing 16	Aurora	CO	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC DINE-IN Southlands 16	Aurora	CO	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Century Boulder	Boulder	CO	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Tinseltown USA and XD - Colorado Springs	Colorado Springs	CO	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Icon Cinema Colorado Springs	Colorado Springs	CO	US	https://www.iconcinemas.com/movie/stranger-things-5-the-finale
+Alamo Drafthouse Cinema - Sloans Lake	Denver	CO	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Regal UA Denver Pavilions	Denver	CO	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Bistro Fort Collins and XD	Fort Collins	CO	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Highlands Ranch 24	Highlands Ranch	CO	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal UA Colorado Mills	Lakewood	CO	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Westminster Promenade 24	Westminster	CO	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Danbury 16	Danbury	CT	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Buckland Hills 18 XD and IMAX	Manchester	CT	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Connecticut Post 14 and IMAX	Milford	CT	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Plainville 20	Plainville	CT	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Marquis 16	Trumbull	CT	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Georgetown 14	Washington	DC	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - DC Metro Area	Washington	DC	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+AMC Altamonte Mall 18	Altamonte Springs	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Aventura 24	Aventura	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Palace 20 and XD	Boca Raton	FL	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Boynton Beach 14 and XD	Boynton Beach	FL	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Bradenton 20	Bradenton	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC The Regency 20	Brandon	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Dania Pointe	Dania Beach	FL	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Paradise 24	Davie	FL	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+CMX Daytona 12	Daytona Beach	FL	US	https://www.cmxcinemas.com/coming-soon/757
+AMC Destin Commons 14	Destin	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Regency 24	Jacksonville	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Tinseltown Jacksonville and XD	Jacksonville	FL	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC DINE-IN Disney Springs 24	Lake Buena Vista	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Avenue 16	Melbourne	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+CMX Dolphin 19 & IMAX	Miami	FL	US	https://www.cmxcinemas.com/coming-soon/757
+Cinépolis Coconut Grove	Miami	FL	US	https://www.cinepolisusa.com/coconut/movie/stranger-things-promotional-fan-screening
+Regal Naples	Naples	FL	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Merchants Crossing 16	North Fort Myers	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Epic Theatres of Ocala with Epic XL	Ocala	FL	US	
+AMC West Oaks 14	Ocoee	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Woodlands Square 20	Oldsmar	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Orange Park 24	Orange Park	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Waterford Lakes	Orlando	FL	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Universal Cinemark at CityWalk and XD	Orlando	FL	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+CMX Downtown At The Gardens	Palm Beach Gardens	FL	US	https://www.cmxcinemas.com/coming-soon/757
+AMC Bayou 15	Pensacola	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Pompano Beach 18	Pompano Beach	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Hollywood - Sarasota	Sarasota	FL	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Sunset Place 24	South Miami	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Tallahassee 20	Tallahassee	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Highwoods 20	Tampa	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Veterans 24	Tampa	FL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+B & B Wesley Chapel The Grove 16	Wesley Chapel	FL	US	https://www.bbtheatres.com/showtimes/1000033981-stranger-things-5-the-finale/
+NCG - Acworth Cinemas	Acworth	GA	US	https://www.ncgmovies.com/movie/Acworth/Stranger-Things-5---The-Finale
+AMC Parkway Pointe 15	Atlanta	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Phipps Plaza 14	Atlanta	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Atlantic Station	Atlanta	GA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Tara Cinemas	Atlanta	GA	US	https://www.taraatlanta.com/movie/stranger-things-5-finale
+GTC Riverwatch Cinemas	Augusta	GA	US	https://www.gtcmovies.com/movie/stranger-things-5-the-finale
+Regal Mall of Georgia	Buford	GA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC CLASSIC Columbus Park 15	Columbus	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Conyers Crossing 16	Conyers	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC North Dekalb 16	Decatur	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Arbor Place	Douglasville	GA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Tinseltown Fayetteville 17 and XD	Fayetteville	GA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Barrett Commons 24	KENNESAW	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Sugarloaf Mills 18	Lawrenceville	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal McDonough	McDonough	GA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Southlake 24	Morrow	GA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Council Bluffs 17	Council Bluffs	IA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Davenport 18 XD and IMAX	Davenport	IA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Century Jordan Creek 20 and XD	West Des Moines	IA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Edwards Boise & IMAX	Boise	ID	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Champaign 13	Champaign	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Ford City 14	Chicago	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC NEWCITY 14	Chicago	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC River East 21	Chicago	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Roosevelt Collection 16	Chicago	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - Wrigleyville	Chicago	IL	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Regal City North	Chicago	IL	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Webster Place	Chicago	IL	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Cicero 14	Cicero	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Crestwood 18	Crestwood	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Classic Cinemas Elk Grove XQ	Elk Grove Village	IL	US	https://www.classiccinemas.com/f/stranger-things-5-the-finale/2201
+AMC Evanston 12	Evanston	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Quarry Cinemas 14	Hodgkins	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC DINE-IN Yorktown 18	Lombard	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Naperville 16	Naperville	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC DINE-IN Northbrook 14	Northbrook	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Oakbrook Center 12	Oak Brook	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Classic Cinemas Kendall GDX	Oswego	IL	US	https://www.classiccinemas.com/f/stranger-things-5-the-finale/2201
+AMC CLASSIC Grand Prairie 18	Peoria	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Rockford 16	Rockford	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Streets of Woodfield 20	Schaumburg	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Village Crossing 18	Skokie	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC South Barrington 24	South Barrington	IL	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Classic Cinemas Charlestowne XQ	St. Charles	IL	US	https://www.classiccinemas.com/f/stranger-things-5-the-finale/2201
+Cinemark Seven Bridges and IMAX	Woodridge	IL	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC CLASSIC Jefferson Point 18	Fort Wayne	IN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Castleton Square 14	Indianapolis	IN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Indianapolis 17	Indianapolis	IN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Traders Point 12	Indianapolis	IN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Perry Crossing 18	Plainfield	IN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Emagine Portage	Portage	IN	US	
+AMC Schererville 16	Schererville	IN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Town Center 20	Leawood	KS	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Merriam and XD	Merriam	KS	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC DINE-IN Studio 28	Olathe	KS	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Northrock 14	Wichita	KS	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Warren West	Wichita	KS	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Fayette Mall and XD	Lexington	KY	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Hamburg Pavilion IMAX & RPX	Lexington	KY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Stonybrook 20	Louisville	KY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Tinseltown Louisville and XD	Louisville	KY	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Newport On The Levee 20	Newport	KY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Baton Rouge 16	Baton Rouge	LA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Elmwood Palace 20	Harahan	LA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Westbank Palace 16	Harvey	LA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Tinseltown West Monroe 17	West Monroe	LA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Boston Common 19	Boston	MA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Causeway 13	Boston	MA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Liberty Tree Mall 20	Danvers	MA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC South Bay Center 12	Dorchester	MA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC DINE-IN Framingham 16	Framingham	MA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Methuen 20	Methuen	MA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark West Springfield 15 and XD	West Springfield	MA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC White Marsh 16	Baltimore	MD	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Montgomery 16	Bethesda	MD	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Columbia 14	Columbia	MD	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Warehouse Cinemas Frederick	Frederick	MD	US	https://frederick.warehousecinemas.com/movie/stranger-things-5-the-finale
+AMC DINE-IN Rio Cinemas 18	Gaithersburg	MD	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Waugh Chapel	Gambrills	MD	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Egyptian 24 and XD	Hanover	MD	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Owings Mills 17	Owings Mills	MD	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Salisbury & RPX	Salisbury	MD	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Majestic	Silver Spring	MD	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Towson and XD	Towson	MD	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Michigan Theater - Ann Arbor	Ann Arbor	MI	US	
+Emagine Canton	Canton	MI	US	
+AMC Star Gratiot 15	Clinton Township	MI	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Celebration! Cinema Grand Rapids North	Grand Rapids	MI	US	https://www.celebrationcinema.com/Films/detail/Stranger-Things-5---The-Finale
+Celebration! Cinema Lansing	Lansing	MI	US	https://www.celebrationcinema.com/Films/detail/Stranger-Things-5---The-Finale
+NCG - Eastwood Cinemas	Lansing	MI	US	https://www.ncgmovies.com/movie/Lansing/Stranger-Things-5---The-Finale
+AMC Livonia 20	Livonia	MI	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC John R 15	Madison Heights	MI	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+MJR Southgate Digital Cinema 20	Southgate	MI	US	https://www.mjrtheatres.com/movies/1000033981-stranger-things-5-the-finale/
+MJR Marketplace Digital Cinema 20	Sterling Heights	MI	US	https://www.mjrtheatres.com/movies/1000033981-stranger-things-5-the-finale/
+AMC Grand Rapids 18	Walker	MI	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Ann Arbor 20 and IMAX	Ypsilanti	MI	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Coon Rapids 16	Coon Rapids	MN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Emagine Eagan	Eagan	MN	US	
+AMC Eden Prairie Mall 18	Eden Prairie	MN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Southdale 16	Edina	MN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+The Main Cinema	Minneapolis	MN	US	https://mspfilm.org/show/stranger-things-5-the-finale/
+AMC Rosedale 14	Roseville	MN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Creve Coeur 12	Creve Coeur	MO	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Independence Commons 20	Independence	MO	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - City Foundry	St. Louis	MO	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Cinemark Gulfport 16	Gulfport	MS	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Malco Grandview Cinema	Madison	MS	US	
+Cinemark Pearl and XD	Pearl	MS	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC CLASSIC Shiloh 14	Billings	MT	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC CLASSIC Missoula 12	Missoula	MT	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Bistro at The Carolina Asheville	Asheville	NC	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Biltmore Grande & RPX	Asheville	NC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Crossroads - Cary	Cary	NC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Silverspot Cinema - Chapel Hill	Chapel Hill	NC	US	https://www.silverspot.net/1252356
+AMC Concord Mills 24	Concord	NC	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Southpoint 17	Durham	NC	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Fayetteville 14	Fayetteville	NC	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Market Fair 15	Fayetteville	NC	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Greensboro Grande	Greensboro	NC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Hickory 15	Hickory	NC	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Palladium	High Point	NC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Alamo Drafthouse Cinema - Raleigh	Raleigh	NC	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Cinemark Bistro Raleigh	Raleigh	NC	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal North Hills	Raleigh	NC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Alamo Drafthouse Cinema - La Vista	La Vista	NE	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+AMC Cherry Hill 24	Cherry Hill	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Clifton Commons 16	Clifton	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Monmouth Mall 15	Eatontown	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Jersey Gardens 20	Elizabeth	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Freehold 14	Freehold	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC New Brunswick 18	New Brunswick	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Garden State Plaza 16	Paramus	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Rockaway 16	Rockaway	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Secaucus ShowPlace	Secaucus	NJ	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Voorhees 16	Voorhees	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Wayne 14	Wayne	NJ	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Willowbrook Mall and XD	Wayne	NJ	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Century Rio Plex 24 and XD	Albuquerque	NM	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Winrock	Albuquerque	NM	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Town Square 18	Las Vegas	NV	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Century Santa Fe Station 16 and XD	Las Vegas	NV	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Red Rock	Las Vegas	NV	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Galaxy Cannery	North Las Vegas	NV	US	https://www.galaxytheatres.com/movie/STRANGER-THINGS-5-THE-FINALE
+Cinemark Century Park Lane 16	Reno	NV	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Crossgates	Albany	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Alamo Drafthouse Cinema - Downtown Brooklyn	Brooklyn	NY	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Regal UA Sheepshead Bay IMAX & RPX	Brooklyn	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Elmwood Center	Buffalo	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal UA Farmingdale & IMAX	Farmingdale	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Atlas Park	Glendale	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Lynbrook	Lynbrook	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Crystal Run 16	Middletown	NY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Marquee Cinemas - Orchard 14	New Hartford	NY	US	
+Regal New Roc	New Rochelle	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC 34th Street 14	New York	NY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Empire 25	New York	NY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Kips Bay 15	New York	NY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - Lower Manhattan	New York	NY	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Paris Theatre	New York	NY	US	https://www.paristheaternyc.com/film/stranger-things-5-the-finale-paris
+Regal Essex Crossing	New York	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Union Square ScreenX & 4DX	New York	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Quaker Crossing	Orchard Park	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Tinseltown Rochester and IMAX	Rochester	NY	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Stony Brook 17	Stony Brook	NY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Destiny USA	Syracuse	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Palisades Center 21	West Nyack	NY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Raceway 10	Westbury	NY	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Westbury	Westbury	NY	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Apple Cinemas White Plains City Center IMAX	White Plains	NY	US	
+Cinemark The Greene 14 and IMAX	Beavercreek	OH	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Oakley Station and XD	Cincinnati	OH	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Polaris 18 and XD	Columbus	OH	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Huber Heights 16	Huber Heights	OH	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Tinseltown USA and XD - North Canton	North Canton	OH	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Silverspot Cinema - Orange Village	Orange	OH	US	https://www.silverspot.net/1252356
+Cinemark Franklin Park 16 and XD	Toledo	OH	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Valley View and XD	Valley View	OH	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC West Chester 18	West Chester Township	OH	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Crocker Park	Westlake	OH	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Quail Springs Mall 24	Oklahoma City	OK	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Tinseltown Oklahoma City and XD	Oklahoma City	OK	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Warren Moore	Oklahoma City	OK	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Southroads 20	Tulsa	OK	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Tulsa and IMAX	Tulsa	OK	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Cedar Hills 16	Beaverton	OR	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Old Mill	Bend	OR	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Valley River Center	Eugene	OR	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Century Eastport Plaza 16	Portland	OR	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Lloyd Center	Portland	OR	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Eugene Springfield 17	Springfield	OR	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Neshaminy 24	Bensalem	PA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Center Valley 16	Center Valley	PA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC CLASSIC Westmoreland 15	Greensburg	PA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Penn Cinema - Lititz	Lititz	PA	US	https://lititz.penncinema.com/movie/stranger-things-5-the-finale
+Cinemark Montage Mountain 20 and XD	Moosic	PA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Robinson Township and XD	Robinson Township	PA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Warrington Crossing	Warrington	PA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Waterfront 22	West Homestead	PA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Apple Cinemas Warwick	Warwick	RI	US	
+AMC Harbison 14	Columbia	SC	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Columbiana Grande	Columbia	SC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Hollywood - Greenville	Greenville	SC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Palmetto Grande	Mount Pleasant	SC	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Myrtle Beach	Myrtle Beach	SC	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Chattanooga 18	Chattanooga	TN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC DINE-IN Thoroughbred 20	Franklin	TN	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Pinnacle	Knoxville	TN	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Malco Paradiso Cinema	Memphis	TN	US	
+Regal Hollywood - Nashville	Nashville	TN	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Opry Mills	Nashville	TN	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC The Parks At Arlington 18	Arlington	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Barton Creek Square 14	Austin	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - South Lamar	Austin	TX	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Cinemark Southpark Meadows	Austin	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Gateway	Austin	TX	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Hooky Entertainment Baytown	Baytown	TX	US	https://hookyentertainment.com/baytown/movie/stranger-things-5-the-finale/
+Cinemark College Station and XD	College Station	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Century Corpus Christi 16 XD and IMAX	Corpus Christi	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC NorthPark 15	Dallas	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - Lake Highlands	Dallas	TX	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Cinemark Dallas XD and IMAX	Dallas	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC El Paso 16	El Paso	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Cielo Vista Mall 14 and XD	El Paso	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Tinseltown Las Palmas XD and ScreenX	El Paso	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC DINE-IN Stonebriar 24	Frisco	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Firewheel 18	Garland	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Grapevine Mills 24	Grapevine	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Gulf Pointe 30	Houston	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Willowbrook 24	Houston	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Tinseltown Houston 290 and XD	Houston	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Regal Edwards Greenway Grand Palace	Houston	TX	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Star Cinema Grill - CityCentre	Houston	TX	US	https://www.starcinemagrill.net/movie/CITYCENTRE/STRANGER-THINGS-5-THE-FINALE
+AMC Deerbrook 24	Humble	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark North East Mall 18 and XD	Hurst	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Irving Mall 14	Irving	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Katy Mills 20	Katy	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - LaCenterra	Katy	TX	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+EVO Entertainment + EVX + IMAX - Kyle	Kyle	TX	US	
+Premiere Cinema Lubbock + IMAX	Lubbock	TX	US	https://www.pccmovies.com/movie/STRANGER-THINGS-5-THE-FINALE
+Cinemark North McKinney and XD	McKinney	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC DINE-IN Mesquite 30	Mesquite	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Hollywood Pasadena and XD	Pasadena	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Pflugerville 20 and XD	Pflugerville	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Legacy and XD	Plano	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark West Plano XD and ScreenX	Plano	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Star Cinema Grill - Richmond/Katy	Richmond	TX	US	https://www.starcinemagrill.net/movie/Richmond/STRANGER-THINGS-5-THE-FINALE
+Alamo Drafthouse Cinema - Park North	San Antonio	TX	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Regal Huebner Oaks	San Antonio	TX	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Fountains 18	Stafford	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC First Colony 24	Sugar Land	TX	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark The Woodlands and XD	The Woodlands	TX	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Hooky Waxahachie	Waxahachie	TX	US	https://hookyentertainment.com/waxahachie/movie/stranger-things-5-the-finale
+Cinemark Provo 16	Provo	UT	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+Cinemark Century Salt Lake 16 and XD	Salt Lake City	UT	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC West Jordan 12	West Jordan	UT	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Cinemark Jordan Landing 24 and XD	West Jordan	UT	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Hoffman Center 22	Alexandria	VA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - Crystal City	Arlington	VA	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Regal Stonefield	Charlottesville	VA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Fairfax Corner and XD	Fairfax	VA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Hampton Towne Centre 24	Hampton	VA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Harrisonburg	Harrisonburg	VA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal River Ridge	Lynchburg	VA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Tysons Corner 16	McLean	VA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+LOOK Dine-In Cinemas Tysons at the Boro	McLean	VA	US	https://www.lookcinemas.com/movie/strangers-things-5-the-finale
+BTM Movieland at Boulevard Sq, Richmond, VA	Richmond	VA	US	https://www.bbtheatres.com/showtimes/1000033981-stranger-things-5-the-finale/
+Regal Short Pump	Richmond	VA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Harbour View Grande	Suffolk	VA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC Lynnhaven 18	Virginia Beach	VA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Potomac Mills 18	Woodbridge	VA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Alamo Drafthouse Cinema - Woodbridge	Woodbridge	VA	US	https://drafthouse.com/nyc/show/stranger-things-5-the-finale
+Cinemark Lincoln Square Cinemas and IMAX	Bellevue	WA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+SEEfilm Bremerton Cinema	Bremerton	WA	US	
+Regal Everett Stadium 16 & RPX	Everett	WA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Cinemark Century Federal Way and XD	Federal Way	WA	US	https://www.cinemark.com/movies/stranger-things-5-the-finale
+AMC Loews Alderwood Mall 16	Lynnwood	WA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Pacific Place 11	Seattle	WA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Regal Meridian	Seattle	WA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+Regal Thornton Place	Seattle	WA	US	https://www.regmovies.com/movies/stranger-things-5-the-finale-ho00020317
+AMC River Park Square 20	Spokane	WA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Southcenter 16	Tukwila	WA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Vancouver Mall 23	Vancouver	WA	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Fitchburg 18	Fitchburg	WI	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+AMC Mayfair Mall 18	Wauwatosa	WI	US	https://www.amctheatres.com/movies/stranger-things-5-the-finale-82075
+Granada Theater	Bluefield	WV	US	
